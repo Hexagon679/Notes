@@ -33,12 +33,12 @@
       Laredo, TX 78045, United States // Texas Forwarding Services, Inc.//
       9567642000
     </p>
-    <p><b>Fedex Account Number:</b> 430479547</p>
+    <p><b>Fedex Account Number:</b> </p>
     <p>
       <b>Fedex Labels Credentials //</b> Username: dsalascs// Password:
-      Zaqwsx123
+      
     </p>
-    <p><b>VNC Viewer Password: </b>drp3pp3r</p>
+    <p><b>VNC Viewer Password: </b></p>
     <table border="1">
       <tr>
         <th>Issue</th>
@@ -50,20 +50,20 @@
           We must request the customer to provide us with their commercial pin
           number.<br />
           Once we receive a response with the pin we can escalate the issue to
-          credit.admin@autozone.com.<br />If the customer does not have a pin we
+          .<br />If the customer does not have a pin we
           must escalate anyways.
         </td>
       </tr>
     </table>
-    <p><b>Ignition ID: </b>10781028</p>
-    <p><b>Store's Number:</b> 690000</p>
+    <p><b>Ignition ID: </b></p>
+    <p><b>Store's Number:</b> </p>
     <p>
       <b>BOPUS CANCELLATION:</b> If the status is being processed, we must
-      proceed with refunding the customer, even if the order is older than 90
+      proceed with refunding the customer, even if the order is older than 
       days<br />
-      or if the order is more than $150.00.<br />
+      or if the order is more than $.<br />
       If the the status of the order is Fulfilled, then we must take into
-      consideration that the order is less than $150.00 and less than 30 days
+      consideration that the order is less than $ and less than days
       old.<br />
       If the requirements above are met, then we can refund the order for
       customer satisfaction.<br />
@@ -74,7 +74,7 @@
     </p>
     <p>The shipping charges have been refunded.</p>
 
-    <p>Follow up // 162851404370</p>
+    <p>Follow up // </p>
 
     <p><b>E-hire:</b> az.recruiting@autozone.com</p>
   </body>
