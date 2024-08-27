@@ -1,0 +1,25 @@
+ATG (Logged In)|https://atgcsc.autozone.com/agent/main.jsp?_windowid=3852
+ATG (Logged Out)|https://atgcsc.autozone.com/agent/login.jsp?sessioninvalid=false&_windowid=3962
+FedEx|https://www.fedex.com/en-us/home.html
+MIS 2.0|http://cscc:9889/
+Business Track (Gift Cards)|https://www.businesstrack.com/manage/landing
+Endicia|https://print.endicia.com/SignIn/?env=OnlineReportingHistory
+AWX (Receipts)|https://awx.autozone.com/#/home
+Viper (Phonebook)|https://webfocus.web.autozone.com/ibi_apps/signin
+Bringg|https://app.bringg.com/
+Rebates 2.0|https://www.autocarerewards.com/
+Taleo|https://autozone.taleo.net/
+AZ Ship|https://fedex-labels-ui.apps.prod.mem.cloud.autozone.com/?code=929477d9-081f-4a82-8628-09efbcd7f297
+GCM (Rewards Lookup)|http://pr-skyhawk-xl35.autozone.com:9898/
+AutoZone Website|https://www.autozone.com/
+FedEx Support Hub|https://fedex-ced.my.site.com/fedexsupporthub/login?ec=302&startURL=%2Ffedexsupporthub%2F
+Cisco Advisors Queues|https://uic01.wx046.webexcce.com:8444/cuicui/permalink/?viewId=3E18FB05459246E9BE1C4C7EFBFE03E3&linkType=dashboard
+Cisco All Queues|https://uic01.wx046.webexcce.com:8444/cuicui/permalink/?viewId=D1C89EDB6C744799BCB1667CE817DABA&linkType=dashboard
+Cisco Agents Queues|https://uic01.wx046.webexcce.com:8444/cuicui/permalink/?viewId=A0EBD257C6FD420DA0E319BC8E905469&linkType=dashboard
+Outlook Templates App|https://apps.powerapps.com/play/e/default-b56591e5-6490-456e-b21d-40500f93e44c/a/fab0e0d2-8232-4039-94b1-d2e77aaa01a6?tenantId=b56591e5-6490-456e-b21d-40500f93e44c&amp;sourcetime=1719939226667&amp;source=portal&source=teamsLinkUnfurling
+Ticketing App|https://apps.powerapps.com/play/e/default-b56591e5-6490-456e-b21d-40500f93e44c/a/e5f6daf0-3751-42dd-8be0-e2ca67b4a85f?tenantId=b56591e5-6490-456e-b21d-40500f93e44c&hint=81d7668a-f301-4f6c-9c4c-516817c3ba06&source=sharebutton&sourcetime=1710868998229#
+View Tickets App|https://autozone1com-my.sharepoint.com/personal/oscar_todakee_autozone_com/Lists/generated_tickets3/P9W4.aspx?viewid=abf12995%2D5ea3%2D4bb8%2Db5ac%2D0600d9a4f820
+CFM (Commercial Credit)|https://commweb.autozone.com/customerfile/servlet/CustFileUiBroker
+ARCSR (Presentation)|https://autozone1com-my.sharepoint.com/:p:/r/personal/daniella_martinez_autozone_com/_layouts/15/Doc.aspx?sourcedoc=%7BA34C87ED-2718-4698-96BF-ACFD4521C011%7D&file=ARCSR%20Presentation%20Comm%20Credit%20US...pptx&action=edit&mobileredirect=true
+Commercial Credit Training|file:///C:/Users/hmendez/Downloads/Commercial%20Credit.pdf
+CSR (Rewards)|https://csr-cloud.apps.prod.mem.cloud.autozone.com/customerLookup.htm

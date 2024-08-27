@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Add Link</title>
+		<link rel="icon" type="image/x-icon" href="images/notes512x512.png" />
+		<link rel="stylesheet" href="style.css" />
+	</head>
+	<body>
+		<div id="topNav">
+			<img src="images/AutoZone_logo.png" alt="AutoZone Logo" />
+			<a class="link-style" href="links.php">
+				<button>Links</button>
+			</a>
+
+			<a class="link-style" href="phone_numbers.php"
+				><button>Phone Numbers</button></a
+			>
+
+			<a class="link-style" href="useful_tips.php"
+				><button>Useful Tips</button></a
+			>
+
+			<a class="link-style" href="credentials.php"
+				><button>Credentials</button></a
+			>
+
+			<a class="link-style" href="notepad.php"><button>Notepad</button></a>
+		</div>
+		<h1>Add a New Link</h1>
+		<form action="add_link.php" method="POST">
+			<label for="link_name">Link Name:</label>
+			<input type="text" id="link_name" name="link_name" required /><br /><br />
+			<label for="url">URL:</label>
+			<input type="url" id="url" name="url" required /><br /><br />
+			<input type="submit" value="Add Link" />
+		</form>
+	</body>
+</html>

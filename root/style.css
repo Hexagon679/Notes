@@ -1,0 +1,196 @@
+body {
+	background-color: lightslategrey;
+	margin: 0px;
+}
+
+h1 {
+	color: black;
+	text-align: center;
+}
+
+p {
+	font-family: verdana;
+	font-size: 15px;
+}
+
+a {
+	width: fit-content;
+	padding: 4px;
+	text-decoration: none;
+	font-weight: bold;
+	color: black;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: black;
+}
+
+a.link-style {
+	text-decoration: none;
+}
+
+#topNav {
+	margin-top: 0;
+	background-color: white;
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: left;
+	box-shadow: 2px 2px 4px 8px rgba(0, 0, 0, 0.2);
+	position: relative;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+#topNav a {
+	display: flex;
+	align-items: center;
+	padding-left: 50px;
+}
+
+button {
+	background-color: black;
+	font-size: 20px;
+	border-radius: 10px;
+	padding: 10px;
+	margin: 10px;
+	color: white;
+	text-decoration: none;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+	transition: transform 0.5s ease;
+	cursor: pointer;
+	flex: 1 1 auto;
+	text-align: center;
+}
+button:hover {
+	color: black;
+	background: #f38021;
+	transform: scale(1.05);
+	text-decoration: none;
+}
+
+@keyframes bounce {
+	40% {
+		transform: translateY(-10px);
+	}
+
+	60% {
+		transform: translateY(-5px);
+	}
+
+	0%,
+	20%,
+	50%,
+	80%,
+	100% {
+		transform: translateY(0);
+	}
+}
+
+#links {
+	width: fit-content;
+	padding: 8px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+ul {
+	padding-left: 0;
+	margin-top: 0;
+}
+
+li {
+	width: fit-content;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	list-style-type: none;
+}
+
+#myInput {
+	width: 500px;
+	height: 500px;
+	padding: 10px;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 16px;
+}
+
+.notepadButton {
+	box-shadow: inset 0px 1px 0px 0px #bee2f9;
+	background: linear-gradient(to bottom, #63b8ee 5%, #468ccf 100%);
+	background-color: #63b8ee;
+	border-radius: 6px;
+	border: 1px solid #3866a3;
+	display: inline-block;
+	cursor: pointer;
+	color: #14396a;
+	font-family: Arial;
+	font-size: 15px;
+	font-weight: bold;
+	padding: 6px 24px;
+	text-decoration: none;
+	text-shadow: 0px 1px 0px #7cacde;
+}
+
+.notepadButton:hover {
+	background: linear-gradient(to bottom, #468ccf 5%, #63b8ee 100%);
+	background-color: #468ccf;
+	transform: none;
+}
+
+.notepadButton:active {
+	position: relative;
+	top: 1px;
+}
+form {
+	width: fit-content;
+	padding-left: 8px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+input[type="submit"] {
+	box-shadow: inset 0px 1px 0px 0px #bee2f9;
+	background: linear-gradient(to bottom, #63b8ee 5%, #468ccf 100%);
+	background-color: #63b8ee;
+	border-radius: 6px;
+	border: 1px solid #3866a3;
+	display: inline-block;
+	cursor: pointer;
+	color: #14396a;
+	font-family: Arial;
+	font-size: 15px;
+	font-weight: bold;
+	padding: 6px 24px;
+	text-decoration: none;
+	text-shadow: 0px 1px 0px #7cacde;
+}
+
+input[type="submit"]:hover {
+	background: linear-gradient(to bottom, #468ccf 5%, #63b8ee 100%);
+	background-color: #468ccf;
+	transform: none;
+}
+
+input[type="submit"]:active {
+	position: relative;
+	top: 1px;
+}
+
+#removeLink {
+	color: red;
+}
+
+#topNav img {
+	width: auto;
+	height: auto;
+	margin-right: 20px;
+}
+
+#phone-list {
+	padding-left: 10px;
+}
